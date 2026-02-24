@@ -1,2 +1,2 @@
 pytest==6.2.2
-PyYAML==5.4.1
+PyYAML==6.0.3
